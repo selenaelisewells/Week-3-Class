@@ -3,10 +3,10 @@
 ## Description
 1054 Week 3 Class Build
 
-##Installation
+## Installation
 There is no installation process for this repo. Simply pull down and start working!
 
-##MIT Licence
+## MIT Licence
 
 
 MIT License
